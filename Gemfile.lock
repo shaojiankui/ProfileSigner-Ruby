@@ -1,0 +1,11 @@
+GEM
+  remote: https://gems.ruby-china.com/
+  specs:
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+
+BUNDLED WITH
+   1.16.6

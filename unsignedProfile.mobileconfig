@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<dict>
+		<key>DeviceAttributes</key>
+		<array>
+			<string>UDID</string>
+			<string>VERSION</string>
+		</array>
+		<key>URL</key>
+		<string>https://dev.skyfox.org/udid/receive.php</string>
+	</dict>
+	<key>PayloadDescription</key>
+	<string>Install this profile to enroll for secure access to ACME Inc.</string>
+	<key>PayloadDisplayName</key>
+	<string>ACME Profile Service</string>
+	<key>PayloadIdentifier</key>
+	<string>com.acme.mobileconfig.profile-service</string>
+	<key>PayloadOrganization</key>
+	<string>ACME Inc.</string>
+	<key>PayloadType</key>
+	<string>Profile Service</string>
+	<key>PayloadUUID</key>
+	<string>ec7d5e2c-95c4-4690-b058-faf238db6cfb</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
